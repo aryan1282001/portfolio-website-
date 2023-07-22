@@ -1,0 +1,35 @@
+<div class="grid_container">
+  <div class="grid_item" style='--clr:#0088d1'><i class="las la-envelope"></i></div>
+  <div class="grid_item" style='--clr:#633bbc'><i class="las la-calendar-alt"></i></div>
+  <div class="grid_item" style='--clr:#2a88ef'><i class="lab la-internet-explorer"></i></div>
+  <div class="grid_item subgrid">
+    <div class="subgrid_item" style='--clr:#b21b40'><i class="las la-play-circle"></i></div>
+    <div class="subgrid_item" style='--clr:#d15832'><i class="las la-headphones"></i></div>
+    <div class="subgrid_item" style='--clr:#008e02'><i class="las la-gamepad"></i></div>
+    <div class="subgrid_item" style='--clr:#a502a4'><i class="las la-camera"></i></div>
+  </div>
+  <div class="grid_item" style='--clr:#623dc1;;background-image:url(https://c.ndtvimg.com/2023-03/fo8ntj88_selena_625x300_01_March_23.jpg)'>
+    <p class='heading'>
+      HomeHollywoodSelena Gomez To Her Wizards Of Waverly Co-Stars: "I Miss You So Much"
+      Selena Gomez To Her Wizards Of Waverly Co-Stars: "I Miss You So Much"</p>
+  </div>
+  <div class="grid_item" style='--clr:#049904'></div>
+  <div class="grid_item" style='--clr:#d7572a'><i class="las la-question-circle"></i></div>
+  <div class="grid_item" style='--clr:#085abf'><i class="lab la-windows"></i></div>
+  <div class="grid_item" style='--clr:#d7572a'><i class="las la-user-friends"></i></div>
+  <div class="grid_item" style='--clr:#00bcf4'><i class="lab la-skype"></i></div>
+  <div class="grid_item" style='--clr:#0495a9;background-image:url(https://images.pexels.com/photos/3941855/pexels-photo-3941855.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)'></div>
+  <div class="grid_item" style='--clr:#0495a9'><i class="las la-image"></i></div>
+  <div class="grid_item" style='--clr:#9b4596'><i class="las la-sticky-note"></i></div>
+  <div class="grid_item" style='--clr:#d59f02'><i class="las la-desktop"></i></div>
+  <div class="grid_item subgrid">
+    <div class="subgrid_item" style='--clr:#0858c3'><i class="las la-laptop"></i></div>
+    <div class="subgrid_item" style='--clr:#633bbc'><i class="las la-cog"></i></div>
+    <div class="subgrid_item" style='--clr:#633bbc'><i class="las la-folder-open"></i></div>
+    <div class="subgrid_item" style='--clr:#0858c3'><i class="las la-photo-video"></i></div>
+  </div>
+
+  <div class="grid_item" style='--clr:#bf1c51;  background-image: url("https://c.ndtvimg.com/2023-03/vr49ss38_big-b-_625x300_06_March_23.jpg");'>
+    <p class='heading'>Amitabh Bachchan Injured On Set In Hyderabad: "Movement And Breathing Painful"</p>
+  </div>
+</div>
